@@ -1,4 +1,4 @@
-- 👋 Olá, sou o Wenega, sou apaixonado pela tecnologia e gosto de compartilhar e aprender com as pessoas...🌱
+- 👋 Olá, sou o Wenega, apaixonado pela tecnologia e gosto de compartilhar e aprender com as pessoas...🌱
 
 
 <div>
